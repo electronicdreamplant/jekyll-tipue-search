@@ -21,6 +21,7 @@ fields:
   label: Photo
   description: If you have an image add it here
 pages:
+- _posts/friendsfest.md
 - _posts/joe-whittaker-s-death.md
 - _posts/2016-03-30-venice.md
 - _posts/1986-11-06-omd-pacific-age-tour.md
