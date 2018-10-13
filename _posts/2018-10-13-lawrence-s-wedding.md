@@ -8,4 +8,4 @@ photo: "/uploads/vcm_s_kf_repr_640x426.jpg"
 
 Here is a nice photo
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2615233659744265%2C51.75393456243837%2C-1.2578755617141726%2C51.75588050312562&amp;layer=mapnik&amp;marker=51.754907543263215%2C-1.2596994638442993" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.75491&amp;mlon=-1.25970#map=18/51.75491/-1.25970">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-1.2742853164672854%2C51.747119788411794%2C-1.2451028823852541%2C51.76268731508343&amp;layer=mapnik&amp;marker=51.75490422254521%2C-1.2596940994262695" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=51.7549&amp;mlon=-1.2597#map=15/51.7549/-1.2597">View Larger Map</a></small>
