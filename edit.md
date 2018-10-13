@@ -1,7 +1,8 @@
-
 ---
 layout: page
 title: Edit
-permalink: "/admin/"
+permalink: "/edit/"
+exclude_from_search: true
 
 ---
+.
