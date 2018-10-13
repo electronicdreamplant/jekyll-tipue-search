@@ -16,10 +16,6 @@ fields:
     date_format: " DD/MM/YYYY"
     required: true
   description: When did it happen?
-- type: file
-  name: photo
-  label: Photo
-  description: If you have an image add it here
 pages:
 - _posts/2008-04-15-mersey-tunnel-10k.md
 - _posts/2018-08-31-friendsfest.md
