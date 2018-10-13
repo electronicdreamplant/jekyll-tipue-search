@@ -21,7 +21,7 @@ You then need to choose the title of your memory and ‘Create’ to move on. Th
 
 The current date will appear by default. Click in this field to bring up a date selector to choose the correct date for your memory
 
-You can add a tag underneath (for example ‘holiday’) which will group similar memories together in a search
+You can add a tag underneath (for example ‘holiday’) which will group similar memories together in a search. Tab after each tag you write to save it.
 
 The main page content is written in the right hand area. A formatting bar at the bottom allows you to add bullets, lists and headers. Heading 2  is a good size for titles within posts
 
