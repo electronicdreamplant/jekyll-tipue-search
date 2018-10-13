@@ -26,3 +26,5 @@ fields:
   description: More details about the memory
   config:
     required: true
+pages:
+- _posts/moved-house.md
