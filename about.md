@@ -11,7 +11,7 @@ This is the assembled memory of Rowena Harris, put together by her long-time fri
 
 ## Creating a new memory
 
-Enter the dashboard by going to [/admin/](/admin/)
+Enter the dashboard by going to [/admin/](/memorybox/admin/)
 
 On the  dashboard, select 'Posts' in the left hand menu
 
