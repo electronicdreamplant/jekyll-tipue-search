@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
+exclude_from_search: true
 
 ---
 ## What is this?
