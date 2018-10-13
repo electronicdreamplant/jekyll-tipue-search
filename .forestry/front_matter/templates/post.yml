@@ -21,4 +21,5 @@ fields:
   label: Photo
   description: If you have an image add it here
 pages:
+- _posts/venice.md
 - _posts/2007-08-09-moved-house.md
