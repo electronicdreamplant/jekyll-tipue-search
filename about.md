@@ -20,7 +20,7 @@ The current date will appear by default. Click in this field to bring up a date 
 
 You can add a tag underneath (for example ‘holiday’) which will group similar memories together in a search
 
-The main page content is written in the right hand area. A formatting bar at the bottom allows you to add bullets, lists and headers. The Heading 2 size it good for titles within posts 
+The main page content is written in the right hand area. A formatting bar at the bottom allows you to add bullets, lists and headers. Heading 2  is a good size for titles within posts
 
 ## Adding an image
 
