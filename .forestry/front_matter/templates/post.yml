@@ -21,7 +21,6 @@ fields:
   name: tags
   description: Add a tag to help group similar memories
 pages:
-- _posts/as.md
 - _posts/2018-08-31-friendsfest.md
 - _posts/2018-10-13-lawrence-s-wedding.md
 - _posts/2008-06-20-joe-whittaker-s-death.md
