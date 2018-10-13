@@ -16,6 +16,10 @@ fields:
     date_format: " DD/MM/YYYY"
     required: true
   description: When did it happen?
+- type: tag_list
+  label: Tags
+  name: tags
+  description: Add a tag to help group similar memories
 pages:
 - _posts/2018-10-13-lawrence-s-wedding.md
 - _posts/2008-06-20-joe-whittaker-s-death.md
