@@ -20,11 +20,5 @@ fields:
   name: photo
   label: Photo
   description: If you have an image add it here
-- type: textarea
-  name: details
-  label: Details
-  description: More details about the memory
-  config:
-    required: true
 pages:
 - _posts/moved-house.md
