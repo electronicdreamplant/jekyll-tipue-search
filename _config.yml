@@ -6,7 +6,6 @@ baseurl: "/memorybox"
 tipue_search:
   include:
     pages: true
-    posts: true
   exclude:
     files: [index.md, search.html]
 
