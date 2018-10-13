@@ -11,7 +11,9 @@ This is the assembled memory of Rowena Harris, put together by her long-time fri
 
 ## Creating a new memory
 
-On the Forestry dashboard, select 'Posts' in the left hand menu
+Enter the dashboard by going to [/admin/](/admin/)
+
+On the  dashboard, select 'Posts' in the left hand menu
 
 Select the ‘Create New’ button at the head of the page, and then ‘Post’
 
