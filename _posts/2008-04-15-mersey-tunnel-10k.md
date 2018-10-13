@@ -2,7 +2,8 @@
 title: Mersey Tunnel 10k
 date: 2008-04-15 16:34:36 +0000
 photo: ''
-tags: []
+tags:
+- race
 
 ---
 Mersey Tunnel 10k
