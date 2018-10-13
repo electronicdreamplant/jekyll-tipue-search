@@ -17,9 +17,9 @@ fields:
     required: true
   description: When did it happen?
 - type: tag_list
-  label: Tags
   name: tags
-  description: Add a tag to help group similar memories
+  label: Tags
+  description: ''
 pages:
 - _posts/2018-10-13-test.md
 - _posts/2018-08-31-friendsfest.md
