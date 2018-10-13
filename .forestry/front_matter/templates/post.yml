@@ -21,9 +21,9 @@ fields:
   label: Photo
   description: If you have an image add it here
 pages:
-- _posts/mersey-tunnel-10k.md
-- _posts/friendsfest.md
-- _posts/joe-whittaker-s-death.md
+- _posts/2008-04-15-mersey-tunnel-10k.md
+- _posts/2018-08-31-friendsfest.md
+- _posts/2008-06-20-joe-whittaker-s-death.md
 - _posts/2016-03-30-venice.md
 - _posts/1986-11-06-omd-pacific-age-tour.md
 - _posts/2018-10-13-lawrence-s-wedding.md
