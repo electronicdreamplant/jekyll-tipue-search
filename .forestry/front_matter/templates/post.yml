@@ -20,3 +20,5 @@ fields:
   name: photo
   label: Photo
   description: If you have an image add it here
+pages:
+- _posts/moved-house.md
