@@ -21,6 +21,7 @@ fields:
   label: Tags
   description: ''
 pages:
+- _posts/giants-in-liverpool.md
 - _posts/2017-03-10-lawrence-visited.md
 - _posts/2018-10-13-omd-40th-anniversary-with-royal-liverpool-philharmonic.md
 - _posts/2018-08-31-friendsfest.md
