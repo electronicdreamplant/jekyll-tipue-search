@@ -21,7 +21,6 @@ fields:
   label: Tags
   description: ''
 pages:
-- _posts/here-is-a-test.md
 - _posts/2018-10-06-giants-in-liverpool.md
 - _posts/2017-03-10-lawrence-visited.md
 - _posts/2018-10-13-omd-40th-anniversary-with-royal-liverpool-philharmonic.md
